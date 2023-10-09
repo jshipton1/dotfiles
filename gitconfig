@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jonathanshipton1@gmail.com
+	name = Jonny Shipton
